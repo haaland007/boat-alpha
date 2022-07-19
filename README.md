@@ -1,4 +1,4 @@
-# boat-alpha
+# boat-alpha netlify link  https://sparkling-bublanina-5d1d53.netlify.app/index.html
 
 I  wanted to brush up javaScript ,HTML,CSS  skills that why i decided to clone boat lifestyle. though it is not
 complete yet i tried to include all the logic part from origal website.
